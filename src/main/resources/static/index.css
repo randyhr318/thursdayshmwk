@@ -1,0 +1,23 @@
+body {
+  background-color: darkmagenta;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+h3 {
+color: green;
+text-align: center;
+}
+p {
+text-align: center;
+color: green;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+label {
+color: yellow;
+}
