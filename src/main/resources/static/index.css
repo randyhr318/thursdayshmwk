@@ -8,12 +8,17 @@ h1 {
 }
 
 h3 {
-color: green;
+color: #40ff00; /*green*/
+text-align: center;
+}
+
+h4 {
+color: #40ff00;
 text-align: center;
 }
 p {
 text-align: center;
-color: green;
+color: #40ff00; /*green*/
   font-family: verdana;
   font-size: 20px;
 }
